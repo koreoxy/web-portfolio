@@ -9,9 +9,9 @@ const Home = () => {
         <div className="py-2">
           <h1>Hi there!👋</h1>
           <p>
-            My name is <b>Saifullah</b>. you can call me Iful or ipul. I m
+            My name is <b>Saifullah</b>. you can call me Iful or ipul. I&apos;m
             currently 21 years old. Born and live in Meulaboh, Aceh Barat,
-            Indonesia. I m currently a student at Teuku Umar University.I
+            Indonesia. I&apos;m currently a student at Teuku Umar University.I
             started learn about programmer since 2020 with c++ language. But for
             now I spend more time to explore about web development using Next.js
             and Laravel.
